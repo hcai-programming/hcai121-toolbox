@@ -2,7 +2,7 @@
 
 The Class Toolbox is a web app built by the whole class.  Each student adds **one game or one tool** to it.  When your work is accepted, it appears on the live site with your name on it.
 
-Live site: (link)
+Live site: [https://hcai121-toolbox.streamlit.app/](https://hcai121-toolbox.streamlit.app/)
 
 You may use AI tools to help write your code, but you must be able to explain every line.
 
